@@ -4,6 +4,8 @@ from random import randint
 import os
 
 #il codice è lungo ma tutto uguale
+#Programma sorteggi torneo con squadre ICC
+
 
 
 print("International Champions Cup, fasi finali")
